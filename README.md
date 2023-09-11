@@ -34,7 +34,7 @@ Files :
     - Pycaret Features Demonstrated
         -  some
 
-8. Time_Series_Forecasting_without_Exogenous_Variable.ipynb
+8. Time_Series_Forecasting_with_Exogenous_Variable.ipynb
     - Contains the code, link to the dataset and references for using pycaret to create a binary classification model
     - Pycaret Features Demonstrated
         -  some
